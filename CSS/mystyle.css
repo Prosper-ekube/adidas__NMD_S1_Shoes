@@ -108,6 +108,7 @@ nav {
 }
 .img-con-2 {
   padding: 0px 20px 8px 0px;
+  margin-right: 20px;
   gap: 8px;
   display: flex;
   overflow-x: auto;
@@ -543,7 +544,7 @@ nav {
 .hero-section-standalone__3 {
   padding: 120px 3px 40px 20px;
   font-weight: 700;
-  font-size: 30px;
+  font-size: 25px;
 }
 .hero-section-standalone__3--less-padding {
   padding: 50px 3px 20px 20px;
@@ -553,6 +554,9 @@ nav {
 }
 .hero-section-standalone__3--moderate-padding {
   padding: 40px 3px 50px 20px;
+}
+.model-section{
+  margin: 0 20px;
 }
 .model-section,
 .shoe-section,
@@ -862,7 +866,7 @@ nav {
     border-right: none;
   }
   .hero-section-standalone__3 {
-    padding: 120px 0px 40px 0px;
+    padding: 120px 0px 40px 20px;
   }
   #img-con-1__child--sub5,
   #img-con-1__child--sub6,
@@ -915,6 +919,9 @@ nav {
   .model-section2 {
     padding: 0;
     margin: 0;
+  }
+  .model-section{
+    margin: 0 20px;
   }
   .offset {
     display: flex;
