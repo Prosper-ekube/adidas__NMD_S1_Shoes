@@ -88,7 +88,7 @@ switchSentence();
 
 function switchButton() { 
     if (currentBtn === 3) {
-        showLessBtnCon.style.display = "block";
+        showLessBtnCon.style.display = "block";        
         showMoreBtnCon.style.display = "none";
         imgCon1ChildSub5.style.display = "block";
         imgCon1ChildSub6.style.display = "block";
