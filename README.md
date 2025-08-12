@@ -4,53 +4,52 @@ Adidas NMD S1 Shoes Webpage Clone
 A responsive front-end clone of the Adidas NMD S1 Black shoe product page, built to closely replicate the original design and interactions.
 
 
+![Page Preview](Images/adidas_NMD_S1_Shoes_Webpage-Preview.png)
 
 **Features**
 
 **Pixel-perfect** UI inspired by the Adidas NMD S1 Black product page
 
-**Responsive design** for mobile, tablet, and desktop
+    Responsive design** for mobile, tablet, and desktop
 
-**Custom scrollbar** styling for a sleek appearance
+    Custom scrollbar** styling for a sleek appearance
 
-**Optimized typography** with custom font family
+    Optimized typography** with custom font family
 
-**Clean and semantic HTML structure**
+    Clean and semantic HTML structure
 
-**Reusable CSS components**
+    Reusable CSS components
 
 
 **Tech Stack**
 
-**HTML5** – semantic markup
+    HTML5
 
-**CSS3** – Flexbox, Grid, and custom styling
+    CSS3
 
-**JavaScript (Vanilla)** – for interactivity
+    Vanilla JavaScript
 
-**Google Fonts / Custom Fonts** – AdihausDIN for branding feel
+    OnlineWebFonts – AdihausDIN
 
 
 **Project Structure**
 
-├── .vscode       
+    ├── CSS 
 
-├── CSS 
+    │   └── mystyle.css
 
-│   ├── mystyle.css
+    ├── fonts         
 
-├── fonts         
+    │   ├── AdihausDIN.otf
 
-│   └── AdihausDIN.otf
+    │   └── AdihausDIN.ttf
 
-│   └── AdihausDIN.ttf
+    ├── Images 
 
-├── Images 
+    ├── JS
 
-├── JS
+    │   └── index.js
 
-│   └── index.js
+    ├── index.html
 
-├── index.html
-
-└── README.md
+    └── README.md
